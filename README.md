@@ -8,4 +8,4 @@ The Discord Pipe Sound Bot is a fun and interactive bot designed to add an extra
 2. Acquire the bots token and invite the bot to your server
 3. Add a config.json file to your local repo
 4. Add 1 entry called "token" to your json file to store your token
-5. run main.py
+5. Run main.py
